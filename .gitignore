@@ -1,0 +1,32 @@
+# Android / Gradle
+.gradle/
+.kotlin/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Local SDK path
+local.properties
+
+# Signing material — NEVER commit
+keystore.properties
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Generated screenshots (docs/screenshots is committed)
+/screenshots/
+
+# OS
+.DS_Store
+Thumbs.db

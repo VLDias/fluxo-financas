@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#ECF4F0</color>
+    <color name="ink_soft">#A3B8B0</color>
+    <color name="bg">#0B1411</color>
+    <color name="surface">#122019</color>
+    <color name="surface_alt">#1A2C24</color>
+    <color name="primary">#3FBF9A</color>
+    <color name="primary_dark">#128A6B</color>
+    <color name="primary_light">#173A2E</color>
+    <color name="expense">#F07B72</color>
+    <color name="expense_soft">#3A211F</color>
+    <color name="income">#4CC98D</color>
+    <color name="income_soft">#143527</color>
+    <color name="divider">#23342C</color>
+</resources>
