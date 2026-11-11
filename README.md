@@ -1,5 +1,7 @@
 # Fluxo
 
+[![Android CI](https://github.com/VLDias/fluxo-financas/actions/workflows/android.yml/badge.svg)](https://github.com/VLDias/fluxo-financas/actions/workflows/android.yml)
+
 Aplicativo Android de finanças pessoais, **offline**, sem anúncios e sem conta em nuvem. Registra gastos e receitas, importa notificações de bancos, controla orçamentos, calcula o salário CLT (INSS/IRRF, férias e 13º) e projeta o saldo acumulado.
 
 ![Visão geral](docs/screenshots/dashboard.png)
